@@ -1,0 +1,15 @@
+.border {
+    border: solid 1px black;
+}
+
+.textGreen {
+    color: #09b35c;
+}
+
+.textDarkGrey {
+    color: #2e2e2e;
+}
+
+.bgGreen {
+    background-color: #09b35c;
+}
